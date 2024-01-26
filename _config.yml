@@ -14,16 +14,16 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Miquel | Portfolio & Project Showcase
+title: "Miquel | Portfolio"
  # the main title
 
-tagline: Firmware, Web Apps, Coding challenges... # it will display as the sub-title
+tagline: "Project Showcase: Firmware, Web Apps, Coding challenges..." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to my personal portfolio, where I showcase a collection of projects that
+  "Welcome to my personal portfolio, where I showcase a collection of projects that
   reflect my passion for coding and creativity. From web development to software
   engineering, explore my journey through various projects and discover how I approach
-  challenges and bring ideas to life.
+  challenges and bring ideas to life."
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
